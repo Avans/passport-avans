@@ -1,0 +1,39 @@
+{
+  "name": "passport-avans",
+  "version": "0.1.0",
+  "description": "Avans authentication strategy for Passport.",
+  "author": {
+    "name": "Paul Wagener",
+    "email": "p.wagener@avans.nl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Avans/passport-avans.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Avans/passport-avans/issues"
+  },
+  "main": "./lib/passport-avans",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": "0.1.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "WTFPL",
+      "url": "http://www.wtfpl.net/"
+    }
+  ],
+  "keywords": [
+    "passport",
+    "avans",
+    "oauth",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ]
+}
